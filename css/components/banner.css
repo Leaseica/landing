@@ -1,0 +1,39 @@
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 150px 40px;
+}
+
+.brand-logo {
+  object-fit: contain;
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  top: 0px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+}
+
+
+.banner h1 {
+  font-weight: bolder;
+  font-family: 'Inria Serif';
+  stroke: 1px solid white;
+  line-height: 70%;
+  padding-left: 60px;
+}
+
+.banner h2 {
+  font-family: 'Inria Serif';
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1.3rem;
+  padding-left: 60px;
+}
+
+.banner .btn-white {
+  margin-top: 20px;
+  margin-left: 60px;
+}

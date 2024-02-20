@@ -1,0 +1,25 @@
+.list-cards {
+  display: flex;
+
+}
+
+
+.card {
+  width: 25%;
+  text-wrap: wrap;
+  margin: 20px auto;
+  padding: 20px 20px;
+}
+
+.card img {
+  /* width: fit-content; */
+  max-width: 150px;
+}
+
+.card h3 {
+  text-align: center;
+}
+
+.card p {
+  text-align: center;
+}
